@@ -1,0 +1,6 @@
+kompile-*
+krun-*
+
+/.build
+/.krun
+
